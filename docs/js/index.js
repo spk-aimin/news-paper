@@ -24,7 +24,7 @@ var S = {
         if (i !== -1) {
             S.UI.simulate(decodeURI(action).substring(i + 3));
         } else {
-             S.UI.simulate('#circle|晶晶同学|你好|#time|^-^|✧*｡٩(ˊᗜˋ*)و✧*｡', 3000);
+             S.UI.simulate('#circle|晶晶同学|降温了多穿点衣服|#time|^-^|✧*｡٩(ˊᗜˋ*)و✧*｡', 3000);
 
            // S.UI.simulate('#show', 3000);
         }
